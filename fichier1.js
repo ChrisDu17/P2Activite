@@ -1,0 +1,1 @@
+document.prompt("Hello"");
