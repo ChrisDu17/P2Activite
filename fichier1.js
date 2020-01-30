@@ -1,1 +1,1 @@
-document.prompt("Hello"");
+alert("Hello");
